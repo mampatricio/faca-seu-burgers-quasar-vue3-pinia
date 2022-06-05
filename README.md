@@ -1,4 +1,4 @@
-# teste-quasar (teste-quasar)
+# faca-seu-burgers-quasar-vue3-pinia
 
 Esse porjeto é um teste
 
